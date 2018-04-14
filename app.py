@@ -2,7 +2,7 @@ print "codigo 1"
 
 <<<<<<< HEAD
 print "alteraco local"
-=======
+==
 print "tu e doido"
 
 print "kkkkkkkk"
